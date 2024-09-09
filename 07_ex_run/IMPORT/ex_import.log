@@ -1,0 +1,107 @@
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	-------------------------------------------------------------------------------
+(0)	-------------------------------------------------------------------------------
+(0)	--------------------------- Working for CSA CSA5_Austria ---------------------------
+(0)	mv *AT_QP_0-20* ../INPUT/CSA5_Austria/AT_QP_0-20
+(0)	mv *AT_QP_20-40* ../INPUT/CSA5_Austria/AT_QP_20-40
+(0)	mv *AT_QP_40-60* ../INPUT/CSA5_Austria/AT_QP_40-60
+(0)	mv *AT_QP_80-100* ../INPUT/CSA5_Austria/AT_QP_80-100
+(0)	mv *AT_QP_120-140* ../INPUT/CSA5_Austria/AT_QP_120-140
+(0)	mv *AT_QP_180-200* ../INPUT/CSA5_Austria/AT_QP_180-200
+(0)	mv *AT_FS_0-20* ../INPUT/CSA5_Austria/AT_FS_0-20
+(0)	mv *AT_FS_20-40* ../INPUT/CSA5_Austria/AT_FS_20-40
+(0)	mv *AT_FS_40-60* ../INPUT/CSA5_Austria/AT_FS_40-60
+(0)	mv *AT_FS_60-80* ../INPUT/CSA5_Austria/AT_FS_60-80
+(0)	mv *AT_FS_100-120* ../INPUT/CSA5_Austria/AT_FS_100-120
+(0)	mv *AT_FS_120-140* ../INPUT/CSA5_Austria/AT_FS_120-140
+(0)	mv *AT_FS_160-180* ../INPUT/CSA5_Austria/AT_FS_160-180
+(0)	-------------------------------------------------------------------------------
+(0)	-------------------------------------------------------------------------------
+(0)	--------------------------- Working for CSA CSA6_Romania ---------------------------
+(0)	mv *RO_AC_0-20* ../INPUT/CSA6_Romania/RO_AC_0-20
+(0)	mv *RO_AC_20-40* ../INPUT/CSA6_Romania/RO_AC_20-40
+(0)	mv *RO_AC_40-60* ../INPUT/CSA6_Romania/RO_AC_40-60
+(0)	mv *RO_CB_0-20* ../INPUT/CSA6_Romania/RO_CB_0-20
+(0)	mv *RO_CB_20-40* ../INPUT/CSA6_Romania/RO_CB_20-40
+(0)	mv *RO_CB_40-60* ../INPUT/CSA6_Romania/RO_CB_40-60
+(0)	mv *RO_CB_60-80* ../INPUT/CSA6_Romania/RO_CB_60-80
+(0)	mv *RO_CB_80-100* ../INPUT/CSA6_Romania/RO_CB_80-100
+(0)	mv *RO_FS_0-20* ../INPUT/CSA6_Romania/RO_FS_0-20
+(0)	mv *RO_FS_100-120* ../INPUT/CSA6_Romania/RO_FS_100-120
+(0)	mv *RO_FS_120-140* ../INPUT/CSA6_Romania/RO_FS_120-140
+(0)	mv *RO_FS_140-160* ../INPUT/CSA6_Romania/RO_FS_140-160
+(0)	mv *RO_FS_20-40* ../INPUT/CSA6_Romania/RO_FS_20-40
+(0)	mv *RO_FS_40-60* ../INPUT/CSA6_Romania/RO_FS_40-60
+(0)	mv *RO_FS_60-80* ../INPUT/CSA6_Romania/RO_FS_60-80
+(0)	mv *RO_FS_80-100* ../INPUT/CSA6_Romania/RO_FS_80-100
+(0)	mv *RO_PA_0-20* ../INPUT/CSA6_Romania/RO_PA_0-20
+(0)	mv *RO_PA_100-120* ../INPUT/CSA6_Romania/RO_PA_100-120
+(0)	mv *RO_PA_120-140* ../INPUT/CSA6_Romania/RO_PA_120-140
+(0)	mv *RO_PA_20-40* ../INPUT/CSA6_Romania/RO_PA_20-40
+(0)	mv *RO_PA_40-60* ../INPUT/CSA6_Romania/RO_PA_40-60
+(0)	mv *RO_PA_60-80* ../INPUT/CSA6_Romania/RO_PA_60-80
+(0)	mv *RO_PA_80-100* ../INPUT/CSA6_Romania/RO_PA_80-100
+(0)	mv *RO_QC_0-20* ../INPUT/CSA6_Romania/RO_QC_0-20
+(0)	mv *RO_QC_100-120* ../INPUT/CSA6_Romania/RO_QC_100-120
+(0)	mv *RO_QC_20-40* ../INPUT/CSA6_Romania/RO_QC_20-40
+(0)	mv *RO_QC_40-60* ../INPUT/CSA6_Romania/RO_QC_40-60
+(0)	mv *RO_QC_60-80* ../INPUT/CSA6_Romania/RO_QC_60-80
+(0)	mv *RO_QC_80-100* ../INPUT/CSA6_Romania/RO_QC_80-100
+(0)	mv *RO_QP_0-20* ../INPUT/CSA6_Romania/RO_QP_0-20
+(0)	mv *RO_QP_100-120* ../INPUT/CSA6_Romania/RO_QP_100-120
+(0)	mv *RO_QP_120-140* ../INPUT/CSA6_Romania/RO_QP_120-140
+(0)	mv *RO_QP_20-40* ../INPUT/CSA6_Romania/RO_QP_20-40
+(0)	mv *RO_QP_40-60* ../INPUT/CSA6_Romania/RO_QP_40-60
+(0)	mv *RO_QP_60-80* ../INPUT/CSA6_Romania/RO_QP_60-80
+(0)	mv *RO_QP_80-100* ../INPUT/CSA6_Romania/RO_QP_80-100
+(0)	mv *RO_QR_0-20* ../INPUT/CSA6_Romania/RO_QR_0-20
+(0)	mv *RO_QR_100-120* ../INPUT/CSA6_Romania/RO_QR_100-120
+(0)	mv *RO_QR_120-140* ../INPUT/CSA6_Romania/RO_QR_120-140
+(0)	mv *RO_QR_20-40* ../INPUT/CSA6_Romania/RO_QR_20-40
+(0)	mv *RO_QR_40-60* ../INPUT/CSA6_Romania/RO_QR_40-60
+(0)	mv *RO_QR_60-80* ../INPUT/CSA6_Romania/RO_QR_60-80
+(0)	mv *RO_QR_80-100* ../INPUT/CSA6_Romania/RO_QR_80-100
+(0)	mv *RO_RP_0-20* ../INPUT/CSA6_Romania/RO_RP_0-20
+(0)	mv *RO_RP_20-40* ../INPUT/CSA6_Romania/RO_RP_20-40
+(0)	mv *RO_RP_40-60* ../INPUT/CSA6_Romania/RO_RP_40-60
+(0)	mv *RO_RP_60-80* ../INPUT/CSA6_Romania/RO_RP_60-80
+(0)	mv *RO_SA_0-20* ../INPUT/CSA6_Romania/RO_SA_0-20
+(0)	mv *RO_SA_20-40* ../INPUT/CSA6_Romania/RO_SA_20-40
+(0)	mv *RO_SA_40-60* ../INPUT/CSA6_Romania/RO_SA_40-60
+(0)	mv *RO_SA_60-80* ../INPUT/CSA6_Romania/RO_SA_60-80
+(0)	mv *RO_SA_80-100* ../INPUT/CSA6_Romania/RO_SA_80-100
+(0)	-------------------------------------------------------------------------------
+(0)	-------------------------------------------------------------------------------
+(0)	--------------------------- Working for CSA CSA8_Italy ---------------------------
+(0)	mv *IT_AA_40-60* ../INPUT/CSA8_Italy/IT_AA_40-60
+(0)	mv *IT_AA_60-80* ../INPUT/CSA8_Italy/IT_AA_60-80
+(0)	mv *IT_AA_80-100* ../INPUT/CSA8_Italy/IT_AA_80-100
+(0)	mv *IT_AA_100-120* ../INPUT/CSA8_Italy/IT_AA_100-120
+(0)	mv *IT_AA_120-140* ../INPUT/CSA8_Italy/IT_AA_120-140
+(0)	mv *IT_AA_140-240* ../INPUT/CSA8_Italy/IT_AA_140-240
+(0)	mv *IT_FS_20-40* ../INPUT/CSA8_Italy/IT_FS_20-40
+(0)	mv *IT_FS_40-60* ../INPUT/CSA8_Italy/IT_FS_40-60
+(0)	mv *IT_FS_60-80* ../INPUT/CSA8_Italy/IT_FS_60-80
+(0)	mv *IT_FS_80-100* ../INPUT/CSA8_Italy/IT_FS_80-100
+(0)	mv *IT_FS_100-120* ../INPUT/CSA8_Italy/IT_FS_100-120
+(0)	mv *IT_FS_120-140* ../INPUT/CSA8_Italy/IT_FS_120-140
+(0)	mv *IT_FS_140-240* ../INPUT/CSA8_Italy/IT_FS_140-240
+(0)	mv *IT_PM_40-60* ../INPUT/CSA8_Italy/IT_PM_40-60
+(0)	mv *IT_PM_80-100* ../INPUT/CSA8_Italy/IT_PM_80-100
+(0)	mv *IT_PN_0-20* ../INPUT/CSA8_Italy/IT_PN_0-20
+(0)	mv *IT_PN_20-40* ../INPUT/CSA8_Italy/IT_PN_20-40
+(0)	mv *IT_PN_40-60* ../INPUT/CSA8_Italy/IT_PN_40-60
+(0)	mv *IT_PN_60-80* ../INPUT/CSA8_Italy/IT_PN_60-80
+(0)	mv *IT_PN_80-100* ../INPUT/CSA8_Italy/IT_PN_80-100
+(0)	mv *IT_PN_120-140* ../INPUT/CSA8_Italy/IT_PN_120-140
+(0)	mv *IT_QC_0-20* ../INPUT/CSA8_Italy/IT_QC_0-20
+(0)	mv *IT_QC_20-40* ../INPUT/CSA8_Italy/IT_QC_20-40
+(0)	mv *IT_QC_40-60* ../INPUT/CSA8_Italy/IT_QC_40-60
+(0)	mv *IT_QC_60-80* ../INPUT/CSA8_Italy/IT_QC_60-80
+(0)	Calculated PI in 1.36006 seconds
+(0)	--------------------------------------------------------------
+(0)	THE END
