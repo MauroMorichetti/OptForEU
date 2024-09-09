@@ -1,6 +1,6 @@
 CODE,FOREST TYPE,3D_CMCC_FEM,References
 AA,Abies alba,Abiesalba,NA
 FS,Fagus sylvatica,Fagussylvatica,NA
-PM,Pseudotsuga menziessi,Piceaabies,NO REF
+PM,Pseudotsuga menziessi,Piceaabies,NO REF (?) is used only to run the code
 PN,Pinus nigra,Pinuspinaster,"Mollicone et al., 2003"
 QC,Quercus cerris,Quercuscerris,NA
