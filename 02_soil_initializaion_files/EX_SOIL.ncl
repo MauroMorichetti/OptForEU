@@ -153,9 +153,9 @@ print("-------------------------------------------------------------------------
                 sand_fraction_n = tofloat((sand_tot/tot)*100)
                 silt_fraction_n = tofloat((silt_tot/tot)*100)
 
-                clay_fraction = decimalPlaces(clay_fraction_n,2,True) 
-                sand_fraction = decimalPlaces(sand_fraction_n,2,True) 
-                silt_fraction = decimalPlaces(silt_fraction_n,2,True) 
+                clay_fraction = decimalPlaces(clay_fraction_n,0,True) 
+                sand_fraction = decimalPlaces(sand_fraction_n,0,True) 
+                silt_fraction = decimalPlaces(silt_fraction_n,0,True) 
 ;DEBUG
 ;print(tot) 
 ;print(clay_fraction)
@@ -194,7 +194,7 @@ write_table(csv_filename, "w", hlist, "%s")
 ;exit 
 
 ;---------> Create the file to write
-format = "%d,%d,%s,%f,%f,%f,%f,%f,%d,%d,%f,%f,%f,%d,%d,%d,%d,%d"; Format to use for each variable.
+format = "%d,%d,%s,%f,%f,%5.2f,%5.2f,%5.2f,%d,%d,%f,%f,%f,%d,%d,%d,%d,%d"; Format to use for each variable.
 alist  = [/X,Y,LANDUSE,LAT,LON,CLAY_PERC,SILT_PERC,SAND_PERC,SOIL_DEPTH,FR,FN0,FNN,M0,LITTERC,LITTERN,SOILC,SOILN,DEADWOODC/]
 write_table(csv_filename, "a", alist, format)
 
