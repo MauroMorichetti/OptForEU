@@ -253,15 +253,16 @@ delete(files_plots)
 ;B) LOOP over CSA 
 ;--------------------------------------------------------
 
+;CHECK FOR ERRORS
+check_errors    = systemfunc("grep error OUTPUT_v"+version+"/*/*/*/*log")
+check_attention = systemfunc("grep ATTENTION OUTPUT_v"+version+"/*/*/*/*log")
+print(check_errors)
+print(check_attention)
+
 delete(version)
 end do
 ;A) LOOP over MODELS
-
 ;--------------------------------------------------------
-;CHECK FOR ERRORS
-
-check_errors = systemfunc("grep error OUTPUT/*/*/*/*log")
-print(check_errors)
 
 ;--------------------------------------------------------
 ; Script Time
