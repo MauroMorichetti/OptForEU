@@ -17,7 +17,7 @@ To run the code:
 **--> 02_soil_initializaion_files <--**
 Create the "sitename_soil.txt" files that contains information about soil and fertility of the test site.
 
-Th data used is the SoilGrids — global gridded soil information database --> https://www.isric.org/explore/soilgrids
+The data used is the SoilGrids — global gridded soil information database --> https://www.isric.org/explore/soilgrids
 !!! Please note that due to space constraints, the raw data is not uploaded. !!!
 
 To run the code: 
@@ -27,7 +27,7 @@ To run the code:
 Create the s sitename_topo.txt files that contains about topography of the test
 site.
 
-Th data used is  the USGS - Digital Elevation - Global 30 Arc-Second Elevation (GTOPO30) - https://doi.org/10.5066/F7DF6PQS
+The data used is  the USGS - Digital Elevation - Global 30 Arc-Second Elevation (GTOPO30) - https://doi.org/10.5066/F7DF6PQS
 
 !!! Please note that due to space constraints, the raw data is not uploaded. !!!
 
