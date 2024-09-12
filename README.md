@@ -63,7 +63,7 @@ To run the code:
 **--> 07_ex_run <--**
 Create the INPUT and OUTPUT of 3D-CMCC-FEM simulations.
 
-./IMPORT/EX_IMPORT.sh collctes all the input data files from the previous folders dividing by scneario and sitename. --> create INPUT folder.
+./IMPORT/EX_IMPORT.sh collctes all the input data files from the previous folders dividing by scenario and sitename. --> create INPUT folder.
 
 ./PARAM include all the parameterization file, the species eco-physiological constants file, named with specie to simulate.
 
